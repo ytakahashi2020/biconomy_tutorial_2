@@ -20,7 +20,7 @@ The main purpose of this repository is to serve as the starting point for the Bi
 
 Have any improvements to be made? Feel free to make a Pull Request!
 
-1 .env ファイルの作成
+1 create .env file
 
 PRIVATE_KEY = " Secret Key"
 
@@ -31,3 +31,6 @@ PRIVATE_KEY = " Secret Key"
 
 4 yarn mumbai
 → mumbai testnet
+
+5 add gas to this address
+![](/image/yarn_mumbai.png)
